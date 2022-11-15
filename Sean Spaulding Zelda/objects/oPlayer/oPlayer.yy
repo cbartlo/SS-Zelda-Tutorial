@@ -34,7 +34,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Sean Spaulding Zelda",
-    "path": "Sean Spaulding Zelda.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

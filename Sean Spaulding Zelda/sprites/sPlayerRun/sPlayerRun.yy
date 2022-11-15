@@ -17,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 17,
   "height": 24,
   "textureGroupId": {
@@ -129,7 +130,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sean Spaulding Zelda",
-    "path": "Sean Spaulding Zelda.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }
