@@ -11,4 +11,6 @@ inputDirection = point_direction(0,0,keyRight-keyLeft, keyDown-keyUp);
 inputMagnitude = (keyRight - keyLeft !=0) or (keyDown - keyUp != 0 );
 
 //This runs the function that the variable state refers to!
-script_execute(state);
+if(!global.gamePaused){
+	script_execute(state);
+}
