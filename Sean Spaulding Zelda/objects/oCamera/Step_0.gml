@@ -24,4 +24,5 @@ y += random_range(-shakeRemain, shakeRemain);
 
 shakeRemain = max(0,shakeRemain - ((1/shakeLength) * shakeMagnitude));
 
+//Set final position of camera
 camera_set_view_pos(cam, x - viewWidthHalf, y- viewHeightHalf);

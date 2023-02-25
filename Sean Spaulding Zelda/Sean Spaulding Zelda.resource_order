@@ -5,6 +5,7 @@
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Managers","order":3,"path":"folders/Objects/Managers.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
@@ -14,7 +15,6 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Managers","order":3,"path":"folders/Objects/Managers.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sTiles","order":3,"path":"sprites/sTiles/sTiles.yy",},
@@ -28,7 +28,9 @@
     {"name":"tTiles","order":1,"path":"tilesets/tTiles/tTiles.yy",},
     {"name":"sPlayerRun","order":1,"path":"sprites/sPlayerRun/sPlayerRun.yy",},
     {"name":"rInit","order":2,"path":"rooms/rInit/rInit.yy",},
+    {"name":"sTextBoxBG","order":4,"path":"sprites/sTextBoxBG/sTextBoxBG.yy",},
     {"name":"oGame","order":1,"path":"objects/oGame/oGame.yy",},
     {"name":"PlayerCollision","order":2,"path":"scripts/PlayerCollision/PlayerCollision.yy",},
+    {"name":"oText","order":4,"path":"objects/oText/oText.yy",},
   ],
 }
