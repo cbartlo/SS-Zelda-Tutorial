@@ -7,7 +7,7 @@ viewWidthHalf = camera_get_view_width(cam) * 0.5;
 viewHeightHalf = camera_get_view_height(cam) * 0.5;
 
 xTo = xstart;
-yTO = ystart;
+yTo = ystart;
 
 shakeLength = 0;
 shakeMagnitude = 0;
