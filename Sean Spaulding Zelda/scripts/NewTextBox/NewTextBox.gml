@@ -19,7 +19,35 @@ function NewTextBox(_message, _background = 1){
 		else{
 			originInstance = noone;
 		}
-		
+		if(argument_count > 1) {
+			background = argument[1];
+		}
+		else{
+			background = 1;
+		}
+		if(argument_count > 2){
+			// first parse strings in responses
+			var _array=argument[2];
+			for(var _i=0;_i<array_length(_array)  ;_i++)
+			{
+				responses[_i]=_array[_i];
+			}
+			for(var i = 0; i < array_length(responses); i++){
+				var _markerPosition = string_pos(":", responses[i]);  //finds first ":"
+				responseScripts[i] = real(string_copy(responses[i], 1, _markerPosition-1)); // pull the number save it
+				responses[i] = string_delete(responses[i], 1, _markerPosition);
+				breakpoint = 10;
+			}
+		}
+		else{
+			
+			responses = [-1];
+			responseScripts = [-1];
+			
+			
+			
+			
+		}
 		
 	}
 	

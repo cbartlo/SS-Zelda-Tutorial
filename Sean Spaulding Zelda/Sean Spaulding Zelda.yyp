@@ -39,6 +39,7 @@
     {"id":{"name":"oQuestNPC","path":"objects/oQuestNPC/oQuestNPC.yy",},"order":8,},
     {"id":{"name":"rVillage","path":"rooms/rVillage/rVillage.yy",},"order":3,},
     {"id":{"name":"pEntity","path":"objects/pEntity/pEntity.yy",},"order":6,},
+    {"id":{"name":"DialogueResponses","path":"scripts/DialogueResponses/DialogueResponses.yy",},"order":8,},
     {"id":{"name":"PlayerStateRoll","path":"scripts/PlayerStateRoll/PlayerStateRoll.yy",},"order":4,},
     {"id":{"name":"PlayerStateFree","path":"scripts/PlayerStateFree/PlayerStateFree.yy",},"order":3,},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":0,},
