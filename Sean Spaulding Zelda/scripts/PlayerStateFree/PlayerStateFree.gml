@@ -23,7 +23,12 @@ function PlayerStateFree(){
 	//Update Image Index
 	show_debug_message(string(localFrame));
 	playerAnimateSprite();
-
+	//Attack Key
+	if(keyAttack){
+		state = PlayerStateAttack;
+		stateAttack = AttackSlash;
+		
+	}
 	//Change State
 	if(keyActivate){
 		
