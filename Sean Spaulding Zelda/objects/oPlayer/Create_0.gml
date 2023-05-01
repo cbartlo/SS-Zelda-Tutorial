@@ -1,6 +1,7 @@
 //setting the default state a reference to a function, interesting!
 state = PlayerStateFree;
 stateAttack = AttackSlash;
+hitByAttack = -1;
 lastState = state;
 collisionMap = layer_tilemap_get_id(layer_get_id("Col"));
 image_speed = 0;
