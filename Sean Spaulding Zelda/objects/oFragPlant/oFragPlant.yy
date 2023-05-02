@@ -4,7 +4,9 @@
   "name": "oFragPlant",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oFragment","path":"objects/oFragment/oFragment.yy",},"propertyId":{"name":"bounceCount","path":"objects/oFragment/oFragment.yy",},"value":"1",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",

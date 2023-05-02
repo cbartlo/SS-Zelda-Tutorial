@@ -59,6 +59,7 @@
     {"id":{"name":"ScreenShake","path":"scripts/ScreenShake/ScreenShake.yy",},"order":5,},
     {"id":{"name":"NewTextBox","path":"scripts/NewTextBox/NewTextBox.yy",},"order":7,},
     {"id":{"name":"playerAnimateSprite","path":"scripts/playerAnimateSprite/playerAnimateSprite.yy",},"order":0,},
+    {"id":{"name":"DropItems","path":"scripts/DropItems/DropItems.yy",},"order":16,},
     {"id":{"name":"sSignpost","path":"sprites/sSignpost/sSignpost.yy",},"order":5,},
     {"id":{"name":"PlayerStateLocked","path":"scripts/PlayerStateLocked/PlayerStateLocked.yy",},"order":3,},
     {"id":{"name":"PlayerStateAttack","path":"scripts/PlayerStateAttack/PlayerStateAttack.yy",},"order":0,},

@@ -38,6 +38,7 @@
     {"name":"MACROS","order":1,"path":"scripts/MACROS/MACROS.yy",},
     {"name":"ScreenShake","order":5,"path":"scripts/ScreenShake/ScreenShake.yy",},
     {"name":"NewTextBox","order":7,"path":"scripts/NewTextBox/NewTextBox.yy",},
+    {"name":"DropItems","order":16,"path":"scripts/DropItems/DropItems.yy",},
     {"name":"sSignpost","order":5,"path":"sprites/sSignpost/sSignpost.yy",},
     {"name":"PlayerStateLocked","order":3,"path":"scripts/PlayerStateLocked/PlayerStateLocked.yy",},
     {"name":"sPlayerAttackSlash","order":9,"path":"sprites/sPlayerAttackSlash/sPlayerAttackSlash.yy",},
