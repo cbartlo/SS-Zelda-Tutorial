@@ -12,7 +12,10 @@ dir = 0;
 //This is to do a check every few frames
 aggroCheck = 0;
 aggroCheckDuration = 5;
-
+stateTarget = state;
+statePrevious = state;
+stateWait = 0;
+stateWaitDuration = 0;
 //things to track timing on the enemies
 timePassed = 0;
 waitDuration = 60;
@@ -27,4 +30,4 @@ enemyScript[ENEMYSTATE.CHASE] = -1;
 enemyScript[ENEMYSTATE.ATTACK] = -1;
 enemyScript[ENEMYSTATE.HURT] = -1;
 enemyScript[ENEMYSTATE.DIE] = -1;
-enemyScript[ENEMYSTATE.WAIT] = -1;
+enemyScript[ENEMYSTATE.WAIT] = EnemyWait;

@@ -25,4 +25,15 @@ function SlimeChase(){
 		}
 		var _collided = EnemyTileCollision();
 	}
+	
+	if(instance_exists(target)) and (point_distance(x,y,target.x,target.y) <=enemyAttackRadius){
+		state = ENEMYSTATE.ATTACK;
+		sprite_index = sprAttack;
+		image_index = 0;
+		image_speed = 1.0;
+		//target 8px past player
+		xTo += lengthdir_x(8,dir);
+		yTo += lengthdir_y(8,dir);
+		
+	}
 }
