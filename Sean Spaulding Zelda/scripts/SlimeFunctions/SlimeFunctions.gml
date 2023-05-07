@@ -2,10 +2,10 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 
 
-function SlimeWander(image_speed = 1){
+function SlimeWander(){
 
 	sprite_index = sprMove;
-	
+	image_speed = 1.0;
 	
 	//At destination or gave up?
 	
