@@ -16,6 +16,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Slime","order":20,"path":"folders/Scripts/Slime.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sPlayerHurt","order":7,"path":"sprites/sPlayerHurt/sPlayerHurt.yy",},
@@ -58,7 +59,7 @@
     {"name":"sTextBoxBG","order":4,"path":"sprites/sTextBoxBG/sTextBoxBG.yy",},
     {"name":"AttackSlash","order":12,"path":"scripts/AttackSlash/AttackSlash.yy",},
     {"name":"oPlant","order":9,"path":"objects/oPlant/oPlant.yy",},
-    {"name":"SlimeWander","order":17,"path":"scripts/SlimeWander/SlimeWander.yy",},
+    {"name":"SlimeWander","order":1,"path":"scripts/SlimeWander/SlimeWander.yy",},
     {"name":"sTrigger","order":14,"path":"sprites/sTrigger/sTrigger.yy",},
     {"name":"sPlantB","order":12,"path":"sprites/sPlantB/sPlantB.yy",},
     {"name":"EntityHitSolid","order":15,"path":"scripts/EntityHitSolid/EntityHitSolid.yy",},
