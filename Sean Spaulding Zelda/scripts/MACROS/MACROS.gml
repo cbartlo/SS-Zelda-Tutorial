@@ -5,3 +5,13 @@
 
 #macro RESOLUTION_W 320
 #macro RESOLUTION_H 180
+
+enum ENEMYSTATE{
+	IDLE,
+	WANDER,
+	CHASE,
+	ATTACK,
+	HURT,
+	DIE,
+	WAIT	
+}
