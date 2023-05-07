@@ -13,6 +13,9 @@ inputMagnitude = (keyRight - keyLeft !=0) or (keyDown - keyUp != 0 );
 //This runs the function that the variable state refers to!
 if(!global.gamePaused){
 	script_execute(state);
+	invulnerable = max(invulnerable - 1, 0);
+	flash = max(flash - 0.05, 0);
+	
 }
 
 depth = -bbox_bottom;
