@@ -7,8 +7,8 @@
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_64520068_1","path":"rooms/rInit/rInit.yy",},
     {"name":"inst_49A073C8","path":"rooms/rInit/rInit.yy",},
+    {"name":"inst_64520068_1","path":"rooms/rInit/rInit.yy",},
   ],
   "isDnd": false,
   "layers": [
